@@ -1,6 +1,6 @@
 # O Desafio
 
-Considere o seguinte jogo hipotético, que chamaremos de **Bankrupt**, muito semelhante a [Banco Imobiliário](https://pt.wikipedia.org/wiki/Banco_Imobili%C3%A1rio) onde várias de suas mecânicas foram simplificadas. Numa partida desse jogo, os *players* se alteram em rodadas, numa ordem definida aleatoriamente no começo da partida. Os *players* sempre começam uma partida com 300 *coins* cada um.
+Este jogo é chamado de **Bankrupt**, muito semelhante a [Banco Imobiliário](https://pt.wikipedia.org/wiki/Banco_Imobili%C3%A1rio) onde várias de suas mecânicas foram simplificadas. Numa partida desse jogo, os *players* se alteram em rodadas, numa ordem definida aleatoriamente no começo da partida. Os *players* sempre começam uma partida com 300 *coins* cada um.
 
 Nesse jogo, o tabuleiro é composto por 20 propriedades em sequência. Cada casa tem um custo de venda, um valor de aluguel, um dono caso já estejam compradas, e seguem uma determinada ordem no tabuleiro. Em *Bankrupt*, **não é possível** construir hotéis e nenhuma outra melhoria sobre as propriedades do tabuleiro, por simplicidade do problema.
 
